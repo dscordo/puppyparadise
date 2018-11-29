@@ -14,3 +14,31 @@ display: block;
 margin-left: auto;
 margin-right: auto;
 }
+
+.bg-1 {
+     background-color: #000000;
+      color: #ffffff;
+  }
+  .bg-2 {
+    background-color: #c60909;
+    color: #ffffff;
+  }
+    .bg-3 {
+      background-color: #ed6d12;
+      color: #ffffff;
+    }
+   .bg-4 {background-color: #B231C0;
+ color: #ffffff;
+}
+
+.bg-5 {background-color: #228B22;
+color: #ffffff;
+}
+   .bg-6 {
+     background-color: #1E90FF;
+     color: #ffffff;
+   }
+    .bg-7 {
+      background-color: #F9E79F;
+      color= #00000;
+    }
