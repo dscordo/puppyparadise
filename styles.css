@@ -46,20 +46,28 @@ color: #ffffff;
       background-color: #efb864;
       padding-top: 70px;
     }
-
+  .social.buttons {
+    padding-top: 70px;
+  }
 .btn-twitter {
   background: #00acee;
   border-color: #009ad5;
+  padding-right: 10px;
 }
 .btn-facebook {
   background: #4868ac;
   border-color: #314776;
+  padding-right: 10px;
+  padding-left: 10px;
 }
 .btn-instagram {
   background: #e83a7c;
   border-color: #8c385f;
+  padding-right: 10px;
+  padding-left: 10px;
 }
 .btn-pinterest {
   background: #b62f26;
   border-color: #b62f26;
+  padding-left: 10px;
 }
