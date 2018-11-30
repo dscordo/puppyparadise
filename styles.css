@@ -45,3 +45,20 @@ color: #ffffff;
     .bg-8 {
       background-color: #efb864;
     }
+
+.btn-twitter {
+  background: #00acee;
+  border-color: #009ad5;
+}
+.btn-facebook {
+  background: #4868ac;
+  border-color: #314776;
+}
+.btn-instagram {
+  background: #e83a7c;
+  border-color: #8c385f;
+}
+.btn-pinterest {
+  background: #b62f26;
+  border-color: #b62f26;
+}
